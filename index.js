@@ -5,4 +5,4 @@
 import {AppRegistry} from 'react-native';
 import App from './src/App';
 
-AppRegistry.registerComponent('Manager', () => App);
+AppRegistry.registerComponent('manager', () => App);
